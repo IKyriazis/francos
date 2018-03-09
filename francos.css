@@ -1,0 +1,82 @@
+* {
+    margin: 5px;
+    padding: 5px;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	
+}
+h1 {
+	font-size: 85px;
+	
+}
+p {
+	font-size: 52px;
+	
+}
+td {
+	border-radius: 10px;
+}
+.banner {
+	
+	border-radius: 30px;
+}
+img {
+	padding: 0px;
+	margin: 0px;
+}
+.logo {
+	float: left;
+	
+}
+.linkMenu {
+    text-align: center;
+	width: 100%;
+	font-size: 36px;
+	
+	
+}
+.info {
+	border-radius: 30px;
+	background-color: white;
+}
+div.about {
+	height: 1600px;
+}
+div.menu {
+	
+	overflow: hidden;
+}
+table.hours {
+	width: 100%;
+	font-size: 32px;
+	
+}
+.hours {
+	
+}
+.directions {
+	
+}
+.contact {
+	
+}
+table.contact {
+		width: 100%;
+		font-size: 32px;
+}
+.front {
+    float: left;
+}
+.back {
+    float: right;
+}
+figure.caption {
+	border: 5px solid black;
+	height: 400;
+	width: 45%;
+}
+figcaption {
+	font-size: 24px;
+	text-align: center;
+	float: bottom;
+}
